@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="100">
+    <setting id="hostip" type="ipaddress" label="101" default="127.0.0.1" />
+    <setting id="hostport" type="number" label="102" default="7072" />
+  </category>
+</settings>

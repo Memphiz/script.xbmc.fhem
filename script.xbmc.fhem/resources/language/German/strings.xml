@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+<!--Common-->
+ 
+  
+<!--Settings-->  
+  <!--General-->
+  <string id="100">Allgemein</string>
+  <string id="101">FHEM IP</string>
+  <string id="102">FHEM Port</string>
+
+  <!--Notifications-->                                                                                                                                                                                           
+  <string id="500">Fehler beim Verbinden zu FHEM!</string>
+  <string id="501">Verbunden mit FHEM!</string>
+  <string id="502">Einstellungen geaendert!</string>
+</strings>
