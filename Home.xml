@@ -1107,7 +1107,7 @@
 		    <width>150</width>
 		    <height>20</height>
      		    <font>font12</font>
-		    <textcolor>gay</textcolor>
+		    <textcolor>gray</textcolor>
                     <label>$INFO[Window(Home).Property(FHT1mode)]</label>
 		  </control>
 		</control>
